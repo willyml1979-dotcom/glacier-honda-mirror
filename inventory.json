@@ -1,6 +1,6 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-09-26T08:29:39",
+  "generated_at": "2026-10-08T14:37:19",
   "vehicle_count": 173,
   "currency": "CAD",
   "note": "Machine-readable inventory feed published by AiOptics. Each vehicle links to its full detail page.",
@@ -18,7 +18,9 @@
       "year": 1998,
       "make": "Jeep",
       "model": "TJ Basein Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "1998 Jeep TJ ",
@@ -31,7 +33,9 @@
       "year": 1998,
       "make": "Jeep",
       "model": "TJ",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2001 Honda S2000 Manual Hardtopin Castlegar",
@@ -48,7 +52,9 @@
       "year": 2001,
       "make": "Honda",
       "model": "S2000 Manual Hardtopin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2001 Honda S2000 ",
@@ -63,7 +69,9 @@
       "year": 2001,
       "make": "Honda",
       "model": "S2000",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2002 Ford Taurus 4dr Sdn SE Standardin Castlegar",
@@ -78,7 +86,9 @@
       "year": 2002,
       "make": "Ford",
       "model": "Taurus 4dr Sdn SE Standardin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2002 Ford Taurus ",
@@ -94,7 +104,9 @@
       "year": 2002,
       "make": "Ford",
       "model": "Taurus",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2002 Ford Taurus ",
@@ -110,7 +122,9 @@
       "year": 2002,
       "make": "Ford",
       "model": "Taurus",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2011 Honda Pilot 4WD EX-L with DVD Rear Entertainment Systemin Castlegar",
@@ -127,7 +141,9 @@
       "year": 2011,
       "make": "Honda",
       "model": "Pilot 4WD EX-L with DVD Rear Entertainment Systemin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2011 Honda Pilot ",
@@ -142,7 +158,9 @@
       "year": 2011,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2011 Honda Pilot ",
@@ -157,13 +175,16 @@
       "year": 2011,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2013 Ford Escape 4WD 4dr Titaniumin Castlegar",
       "vin": "1FMCU9J95DUD25904",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Titaniumin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/406cf1ea197f.html",
       "source_url": "https://www.glacierhonda.com/used/2013-Ford-Escape-id13622572.html",
       "dealer_url": "https://www.glacierhonda.com/used/2013-Ford-Escape-id13622572.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -173,8 +194,10 @@
       "odometer_km": 223701,
       "year": 2013,
       "make": "Ford",
-      "model": "Escape 4WD 4dr Titaniumin Castlegar",
-      "condition": "used"
+      "model": "Escape",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2013 Ford Escape ",
@@ -189,7 +212,9 @@
       "year": 2013,
       "make": "Ford",
       "model": "Escape",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2013 Ford Escape ",
@@ -204,7 +229,9 @@
       "year": 2013,
       "make": "Ford",
       "model": "Escape",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Rio ",
@@ -220,13 +247,16 @@
       "year": 2016,
       "make": "Kia",
       "model": "Rio",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Rio LXin Castlegar",
       "vin": "KNADM5A32G6672500",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LXin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/2ba5e267c129.html",
       "source_url": "https://www.glacierhonda.com/used/2016-Kia-Rio-id14392034.html",
       "dealer_url": "https://www.glacierhonda.com/used/2016-Kia-Rio-id14392034.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -236,8 +266,10 @@
       "odometer_km": 174185,
       "year": 2016,
       "make": "Kia",
-      "model": "Rio LXin Castlegar",
-      "condition": "used"
+      "model": "Rio",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2016 Kia Rio ",
@@ -253,7 +285,9 @@
       "year": 2016,
       "make": "Kia",
       "model": "Rio",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2016 Toyota Yaris 4dr Sdn Manin Castlegar",
@@ -270,7 +304,9 @@
       "year": 2016,
       "make": "Toyota",
       "model": "Yaris 4dr Sdn Manin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2016 Toyota Yaris ",
@@ -286,7 +322,9 @@
       "year": 2016,
       "make": "Toyota",
       "model": "Yaris",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2016 Toyota Yaris ",
@@ -302,13 +340,16 @@
       "year": 2016,
       "make": "Toyota",
       "model": "Yaris",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Traverse AWD 4dr LT w/1LTin Castlegar",
       "vin": "1GNKVGKD7HJ148677",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LT",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/c8e8c140e731.html",
       "source_url": "https://www.glacierhonda.com/used/2017-Chevrolet-Traverse-id13385080.html",
       "dealer_url": "https://www.glacierhonda.com/used/2017-Chevrolet-Traverse-id13385080.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -318,8 +359,10 @@
       "odometer_km": 84909,
       "year": 2017,
       "make": "Chevrolet",
-      "model": "Traverse AWD 4dr LT w/1LTin Castlegar",
-      "condition": "used"
+      "model": "Traverse",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Traverse ",
@@ -334,7 +377,9 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2017 Chevrolet Traverse ",
@@ -349,13 +394,16 @@
       "year": 2017,
       "make": "Chevrolet",
       "model": "Traverse",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V 4WD EXin Castlegar",
       "vin": "2HKRW2H59HH114966",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EXin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/05822c12c79e.html",
       "source_url": "https://www.glacierhonda.com/used/2017-Honda-CR_V-id13850374.html",
       "dealer_url": "https://www.glacierhonda.com/used/2017-Honda-CR_V-id13850374.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -365,22 +413,27 @@
       "odometer_km": 209067,
       "year": 2017,
       "make": "Honda",
-      "model": "CR-V 4WD EXin Castlegar",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V Basein Castlegar",
       "vin": "2HKRW2H22HH123059",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/b75e2ecb7eda.html",
       "source_url": "https://www.glacierhonda.com/used/2017-Honda-CR_V-id14432261.html",
       "dealer_url": "https://www.glacierhonda.com/used/2017-Honda-CR_V-id14432261.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
       "last_verified": "2026-09-25T04:59:51",
       "year": 2017,
       "make": "Honda",
-      "model": "CR-V Basein Castlegar",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V ",
@@ -396,7 +449,9 @@
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2017 Honda CR-V ",
@@ -412,13 +467,16 @@
       "year": 2017,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2018 Mitsubishi Mirage ES Manualin Castlegar",
       "vin": "ML32A3HJ4JH004384",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "ES Manualin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/cb067ff74fa9.html",
       "source_url": "https://www.glacierhonda.com/used/2018-Mitsubishi-Mirage-id12797124.html",
       "dealer_url": "https://www.glacierhonda.com/used/2018-Mitsubishi-Mirage-id12797124.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -428,8 +486,10 @@
       "odometer_km": 97630,
       "year": 2018,
       "make": "Mitsubishi",
-      "model": "Mirage ES Manualin Castlegar",
-      "condition": "used"
+      "model": "Mirage",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2018 Mitsubishi Mirage ",
@@ -444,7 +504,9 @@
       "year": 2018,
       "make": "Mitsubishi",
       "model": "Mirage",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2018 Mitsubishi Mirage ",
@@ -459,13 +521,16 @@
       "year": 2018,
       "make": "Mitsubishi",
       "model": "Mirage",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota RAV4 XLEin Castlegar",
       "vin": "2T3R1RFV1KW019344",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XLEin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/50859bbe5b4d.html",
       "source_url": "https://www.glacierhonda.com/used/2019-Toyota-RAV4-id14385736.html",
       "dealer_url": "https://www.glacierhonda.com/used/2019-Toyota-RAV4-id14385736.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -475,8 +540,10 @@
       "odometer_km": 125604,
       "year": 2019,
       "make": "Toyota",
-      "model": "RAV4 XLEin Castlegar",
-      "condition": "used"
+      "model": "RAV4",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota RAV4 ",
@@ -492,7 +559,9 @@
       "year": 2019,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2019 Toyota RAV4 ",
@@ -508,13 +577,16 @@
       "year": 2019,
       "make": "Toyota",
       "model": "RAV4",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Super Duty F-450 DRW Limited 4WD Crew Cab 8' Boxin Castlegar",
       "vin": "1FT8W4DT7LEC95375",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-450 DRW Limited",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/a37b1b2448cd.html",
       "source_url": "https://www.glacierhonda.com/used/2020-Ford-Super_Duty_F_450_DRW-id12957477.html",
       "dealer_url": "https://www.glacierhonda.com/used/2020-Ford-Super_Duty_F_450_DRW-id12957477.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -524,13 +596,16 @@
       "odometer_km": 90355,
       "year": 2020,
       "make": "Ford",
-      "model": "Super Duty F-450 DRW Limited 4WD Crew Cab 8' Boxin Castlegar",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Super Duty F-450 DRW ",
       "vin": "1FT8W4DT7LEC95375",
       "stock": 12957477,
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/b0fe0097aede.html",
       "source_url": "https://www.glacierhonda.com/used/2020-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.glacierhonda.com/used/2020-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -539,13 +614,16 @@
       "price_currency": "CAD",
       "year": 2020,
       "make": "Ford",
-      "model": "Super Duty F-450 DRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2020 Ford Super Duty F-450 DRW ",
       "vin": "1FT8W4DT7LEC95375",
       "stock": 12957477,
+      "trim": "F-450 DRW",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/b0fe0097aede.html",
       "source_url": "https://www.glacierhonda.com/used/2020-Ford-Super_Duty_F_450_DRW.html",
       "dealer_url": "https://www.glacierhonda.com/used/2020-Ford-Super_Duty_F_450_DRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -554,14 +632,17 @@
       "price_currency": "CAD",
       "year": 2020,
       "make": "Ford",
-      "model": "Super Duty F-450 DRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Acura ILX Premium A-Specin Castlegar",
       "vin": "19UDE2F81MA800142",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Premium A-Specin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4fb6c2905643.html",
       "source_url": "https://www.glacierhonda.com/used/2021-Acura-ILX-id14370804.html",
       "dealer_url": "https://www.glacierhonda.com/used/2021-Acura-ILX-id14370804.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -571,8 +652,10 @@
       "odometer_km": 60235,
       "year": 2021,
       "make": "Acura",
-      "model": "ILX Premium A-Specin Castlegar",
-      "condition": "used"
+      "model": "ILX",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Acura ILX ",
@@ -587,7 +670,9 @@
       "year": 2021,
       "make": "Acura",
       "model": "ILX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Acura ILX ",
@@ -602,13 +687,16 @@
       "year": 2021,
       "make": "Acura",
       "model": "ILX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee Altitude 4x4in Castlegar",
       "vin": "1C4RJFAG0MC710913",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Altitude 4x4in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/5b47972ac8f5.html",
       "source_url": "https://www.glacierhonda.com/used/2021-Jeep-Grand_Cherokee-id14008386.html",
       "dealer_url": "https://www.glacierhonda.com/used/2021-Jeep-Grand_Cherokee-id14008386.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -618,8 +706,10 @@
       "odometer_km": 89734,
       "year": 2021,
       "make": "Jeep",
-      "model": "Grand Cherokee Altitude 4x4in Castlegar",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee ",
@@ -634,7 +724,9 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Jeep Grand Cherokee ",
@@ -649,13 +741,16 @@
       "year": 2021,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek Touringin Castlegar",
       "vin": "JF2GTAPC9M8212223",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Touringin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/48be6e2aa019.html",
       "source_url": "https://www.glacierhonda.com/used/2021-Subaru-Crosstrek-id14413242.html",
       "dealer_url": "https://www.glacierhonda.com/used/2021-Subaru-Crosstrek-id14413242.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -663,8 +758,10 @@
       "odometer_km": 55813,
       "year": 2021,
       "make": "Subaru",
-      "model": "Crosstrek Touringin Castlegar",
-      "condition": "used"
+      "model": "Crosstrek",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek ",
@@ -678,7 +775,9 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Subaru Crosstrek ",
@@ -692,13 +791,16 @@
       "year": 2021,
       "make": "Subaru",
       "model": "Crosstrek",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Tiguan Highlinein Castlegar",
       "vin": "3VV4B7AX8MM138776",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Highlinein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/1efde949e686.html",
       "source_url": "https://www.glacierhonda.com/used/2021-Volkswagen-Tiguan-id14385735.html",
       "dealer_url": "https://www.glacierhonda.com/used/2021-Volkswagen-Tiguan-id14385735.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -708,8 +810,10 @@
       "odometer_km": 55477,
       "year": 2021,
       "make": "Volkswagen",
-      "model": "Tiguan Highlinein Castlegar",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Tiguan ",
@@ -725,7 +829,9 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2021 Volkswagen Tiguan ",
@@ -741,13 +847,16 @@
       "year": 2021,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick XL AWD SuperCrewin Castlegar",
       "vin": "3FTTW8F96NRA15321",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "XL SuperCrewin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/9ec166be4ad2.html",
       "source_url": "https://www.glacierhonda.com/used/2022-Ford-Maverick-id13910901.html",
       "dealer_url": "https://www.glacierhonda.com/used/2022-Ford-Maverick-id13910901.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -757,8 +866,10 @@
       "odometer_km": 36130,
       "year": 2022,
       "make": "Ford",
-      "model": "Maverick XL AWD SuperCrewin Castlegar",
-      "condition": "used"
+      "model": "Maverick",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -774,13 +885,16 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Super Duty F-350 SRW XL 4WD Crew Cab 6.75' Boxin Castlegar",
       "vin": "1FT8W3BT8NEF00945",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-350 SRW XL 6.75' Boxin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/d5ef13f51f9b.html",
       "source_url": "https://www.glacierhonda.com/used/2022-Ford-Super_Duty_F_350_SRW-id13107627.html",
       "dealer_url": "https://www.glacierhonda.com/used/2022-Ford-Super_Duty_F_350_SRW-id13107627.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -790,13 +904,16 @@
       "odometer_km": 70113,
       "year": 2022,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW XL 4WD Crew Cab 6.75' Boxin Castlegar",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT8NEF00945",
       "stock": 13107627,
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4fe8fd9863ab.html",
       "source_url": "https://www.glacierhonda.com/used/2022-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.glacierhonda.com/used/2022-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -805,8 +922,10 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Maverick ",
@@ -822,12 +941,15 @@
       "year": 2022,
       "make": "Ford",
       "model": "Maverick",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT8NEF00945",
       "stock": 13107627,
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4fe8fd9863ab.html",
       "source_url": "https://www.glacierhonda.com/used/2022-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.glacierhonda.com/used/2022-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -836,14 +958,17 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX 350h AWDin Castlegar",
       "vin": "2T2GKCEZ8NC008504",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "350h AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/46c90e2505bf.html",
       "source_url": "https://www.glacierhonda.com/used/2022-Lexus-NX_350h-id13941683.html",
       "dealer_url": "https://www.glacierhonda.com/used/2022-Lexus-NX_350h-id13941683.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -853,14 +978,17 @@
       "odometer_km": 57487,
       "year": 2022,
       "make": "Lexus",
-      "model": "NX 350h AWDin Castlegar",
-      "condition": "used"
+      "model": "NX",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX 350h ",
       "vin": "2T2GKCEZ8NC008504",
       "stock": 13941683,
       "color": "Blue",
+      "trim": "350h",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/13cbbba462fe.html",
       "source_url": "https://www.glacierhonda.com/used/2022-Lexus-NX_350h.html",
       "dealer_url": "https://www.glacierhonda.com/used/2022-Lexus-NX_350h.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -869,14 +997,17 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Lexus",
-      "model": "NX 350h",
-      "condition": "used"
+      "model": "NX",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2022 Lexus NX 350h ",
       "vin": "2T2GKCEZ8NC008504",
       "stock": 13941683,
       "color": "Blue",
+      "trim": "350h",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/13cbbba462fe.html",
       "source_url": "https://www.glacierhonda.com/used/2022-Lexus-NX_350h.html",
       "dealer_url": "https://www.glacierhonda.com/used/2022-Lexus-NX_350h.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -885,14 +1016,17 @@
       "price_currency": "CAD",
       "year": 2022,
       "make": "Lexus",
-      "model": "NX 350h",
-      "condition": "new"
+      "model": "NX",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Blazer True North AWDin Castlegar",
       "vin": "3GNKBJRS3PS208672",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "True North AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/ee1953bc9b6e.html",
       "source_url": "https://www.glacierhonda.com/used/2023-Chevrolet-Blazer-id13545216.html",
       "dealer_url": "https://www.glacierhonda.com/used/2023-Chevrolet-Blazer-id13545216.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -902,8 +1036,10 @@
       "odometer_km": 52928,
       "year": 2023,
       "make": "Chevrolet",
-      "model": "Blazer True North AWDin Castlegar",
-      "condition": "used"
+      "model": "Blazer",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Blazer ",
@@ -918,7 +1054,9 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Chevrolet Blazer ",
@@ -933,13 +1071,16 @@
       "year": 2023,
       "make": "Chevrolet",
       "model": "Blazer",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Edge ST AWDin Castlegar",
       "vin": "2FMPK4AP5PBA03458",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "ST AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/cd559b47789a.html",
       "source_url": "https://www.glacierhonda.com/used/2023-Ford-Edge-id13941682.html",
       "dealer_url": "https://www.glacierhonda.com/used/2023-Ford-Edge-id13941682.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -949,8 +1090,10 @@
       "odometer_km": 143022,
       "year": 2023,
       "make": "Ford",
-      "model": "Edge ST AWDin Castlegar",
-      "condition": "used"
+      "model": "Edge",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Edge ",
@@ -965,7 +1108,9 @@
       "year": 2023,
       "make": "Ford",
       "model": "Edge",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Ford Edge ",
@@ -980,13 +1125,16 @@
       "year": 2023,
       "make": "Ford",
       "model": "Edge",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Passport Touring AWDin Castlegar",
       "vin": "5FNYF8H91PB502613",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Touring AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4529580d9af4.html",
       "source_url": "https://www.glacierhonda.com/used/2023-Honda-Passport-id13941685.html",
       "dealer_url": "https://www.glacierhonda.com/used/2023-Honda-Passport-id13941685.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -996,8 +1144,10 @@
       "odometer_km": 163258,
       "year": 2023,
       "make": "Honda",
-      "model": "Passport Touring AWDin Castlegar",
-      "condition": "used"
+      "model": "Passport",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Passport ",
@@ -1012,7 +1162,9 @@
       "year": 2023,
       "make": "Honda",
       "model": "Passport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Honda Passport ",
@@ -1027,13 +1179,16 @@
       "year": 2023,
       "make": "Honda",
       "model": "Passport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue AWD SV Moonroofin Castlegar",
       "vin": "JN8BT3BB5PW224103",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "SV Moonroofin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/ea26a2f47397.html",
       "source_url": "https://www.glacierhonda.com/used/2023-Nissan-Rogue-id13757890.html",
       "dealer_url": "https://www.glacierhonda.com/used/2023-Nissan-Rogue-id13757890.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1043,8 +1198,10 @@
       "odometer_km": 40952,
       "year": 2023,
       "make": "Nissan",
-      "model": "Rogue AWD SV Moonroofin Castlegar",
-      "condition": "used"
+      "model": "Rogue",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -1059,7 +1216,9 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Nissan Rogue ",
@@ -1074,13 +1233,16 @@
       "year": 2023,
       "make": "Nissan",
       "model": "Rogue",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota 4Runner 4WDin Castlegar",
       "vin": "JTESU5JR5P6200270",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "4WDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/fb5e9039fbfb.html",
       "source_url": "https://www.glacierhonda.com/used/2023-Toyota-4Runner-id13438758.html",
       "dealer_url": "https://www.glacierhonda.com/used/2023-Toyota-4Runner-id13438758.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1090,8 +1252,10 @@
       "odometer_km": 92300,
       "year": 2023,
       "make": "Toyota",
-      "model": "4Runner 4WDin Castlegar",
-      "condition": "used"
+      "model": "4Runner",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota 4Runner ",
@@ -1106,7 +1270,9 @@
       "year": 2023,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2023 Toyota 4Runner ",
@@ -1121,13 +1287,16 @@
       "year": 2023,
       "make": "Toyota",
       "model": "4Runner",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Acura MDX A-Spec SH-AWDin Castlegar",
       "vin": "5J8YE1H04RL800697",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "A-Spec SH-AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/46bab4fbac20.html",
       "source_url": "https://www.glacierhonda.com/used/2024-Acura-MDX-id13557445.html",
       "dealer_url": "https://www.glacierhonda.com/used/2024-Acura-MDX-id13557445.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1137,8 +1306,10 @@
       "odometer_km": 62766,
       "year": 2024,
       "make": "Acura",
-      "model": "MDX A-Spec SH-AWDin Castlegar",
-      "condition": "used"
+      "model": "MDX",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Acura MDX ",
@@ -1153,7 +1324,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "MDX",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Acura MDX ",
@@ -1168,7 +1341,9 @@
       "year": 2024,
       "make": "Acura",
       "model": "MDX",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Ford E-450 DRW 158\" WBin Castlegar",
@@ -1185,13 +1360,16 @@
       "year": 2024,
       "make": "Ford",
       "model": "E-450 DRW 158\" WBin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid EX-L AWDin Castlegar",
       "vin": "2HKRS6H77RH218796",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-L AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/feba633ee86d.html",
       "source_url": "https://www.glacierhonda.com/used/2024-Honda-CR_V_Hybrid-id14011923.html",
       "dealer_url": "https://www.glacierhonda.com/used/2024-Honda-CR_V_Hybrid-id14011923.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1201,8 +1379,10 @@
       "odometer_km": 61250,
       "year": 2024,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWDin Castlegar",
-      "condition": "used"
+      "model": "CR-V",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid ",
@@ -1217,7 +1397,9 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Honda CR-V Hybrid ",
@@ -1232,13 +1414,16 @@
       "year": 2024,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee Limited 4x4in Castlegar",
       "vin": "1C4RJHBG3RC148300",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Limited 4x4in Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/a708857211c7.html",
       "source_url": "https://www.glacierhonda.com/used/2024-Jeep-Grand_Cherokee-id13545217.html",
       "dealer_url": "https://www.glacierhonda.com/used/2024-Jeep-Grand_Cherokee-id13545217.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1248,8 +1433,10 @@
       "odometer_km": 82416,
       "year": 2024,
       "make": "Jeep",
-      "model": "Grand Cherokee Limited 4x4in Castlegar",
-      "condition": "used"
+      "model": "Grand Cherokee",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -1264,7 +1451,9 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2024 Jeep Grand Cherokee ",
@@ -1279,13 +1468,16 @@
       "year": 2024,
       "make": "Jeep",
       "model": "Grand Cherokee",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Super Duty F-350 SRW XL 4WD Crew Cab 6.75' Boxin Castlegar",
       "vin": "1FT8W3BT5SEC91725",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "F-350 SRW XL 6.75' Boxin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/12f195bb483e.html",
       "source_url": "https://www.glacierhonda.com/used/2025-Ford-Super_Duty_F_350_SRW-id13941681.html",
       "dealer_url": "https://www.glacierhonda.com/used/2025-Ford-Super_Duty_F_350_SRW-id13941681.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1295,14 +1487,17 @@
       "odometer_km": 43775,
       "year": 2025,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW XL 4WD Crew Cab 6.75' Boxin Castlegar",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT5SEC91725",
       "stock": 13941681,
       "color": "Blue",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/a88d0c7eb74d.html",
       "source_url": "https://www.glacierhonda.com/used/2025-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.glacierhonda.com/used/2025-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1311,14 +1506,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "used"
+      "model": "Super Duty",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Ford Super Duty F-350 SRW ",
       "vin": "1FT8W3BT5SEC91725",
       "stock": 13941681,
       "color": "Blue",
+      "trim": "F-350 SRW",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a88d0c7eb74d.html",
       "source_url": "https://www.glacierhonda.com/used/2025-Ford-Super_Duty_F_350_SRW.html",
       "dealer_url": "https://www.glacierhonda.com/used/2025-Ford-Super_Duty_F_350_SRW.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1327,14 +1525,17 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Ford",
-      "model": "Super Duty F-350 SRW",
-      "condition": "new"
+      "model": "Super Duty",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Accord Hybrid Touring eCVT Sedanin Castlegar",
       "vin": "1HGCY2F82SA802319",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Touring eCVT Sedanin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/242fc83f7ec5.html",
       "source_url": "https://www.glacierhonda.com/used/2025-Honda-Accord_Hybrid-id12720113.html",
       "dealer_url": "https://www.glacierhonda.com/used/2025-Honda-Accord_Hybrid-id12720113.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1343,8 +1544,10 @@
       "price_currency": "CAD",
       "year": 2025,
       "make": "Honda",
-      "model": "Accord Hybrid Touring eCVT Sedanin Castlegar",
-      "condition": "used"
+      "model": "Accord Hybrid",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Accord Hybrid ",
@@ -1360,7 +1563,9 @@
       "year": 2025,
       "make": "Honda",
       "model": "Accord Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Honda Accord Hybrid ",
@@ -1376,13 +1581,16 @@
       "year": 2025,
       "make": "Honda",
       "model": "Accord Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Volvo XC40 B5 AWD Core Bright Themein Castlegar",
       "vin": "YV4L12UJ5S2581024",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "B5 Core Bright Themein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/aa19bc859bbe.html",
       "source_url": "https://www.glacierhonda.com/used/2025-Volvo-XC40-id14140541.html",
       "dealer_url": "https://www.glacierhonda.com/used/2025-Volvo-XC40-id14140541.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1392,8 +1600,10 @@
       "odometer_km": 28510,
       "year": 2025,
       "make": "Volvo",
-      "model": "XC40 B5 AWD Core Bright Themein Castlegar",
-      "condition": "used"
+      "model": "XC40",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Volvo XC40 ",
@@ -1409,7 +1619,9 @@
       "year": 2025,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2025 Volvo XC40 ",
@@ -1425,7 +1637,9 @@
       "year": 2025,
       "make": "Volvo",
       "model": "XC40",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid ",
@@ -1441,7 +1655,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Accord Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Sedan ",
@@ -1456,7 +1672,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Accord Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V ",
@@ -1472,7 +1690,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -1488,12 +1708,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hatchbackin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hatchbackin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/58c4e5b944a6.html",
       "source_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Hatchback.html",
       "dealer_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Hatchback.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1502,13 +1725,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hatchbackin Castlegar",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hatchback Hybridin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/36cd1427037e.html",
       "source_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Hatchback_Hybrid.html",
       "dealer_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Hatchback_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1517,8 +1743,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hatchback Hybridin Castlegar",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan ",
@@ -1532,7 +1760,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid ",
@@ -1548,7 +1778,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -1564,12 +1796,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Type Rin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Type Rin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/3db1ffe54980.html",
       "source_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Type_R.html",
       "dealer_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Type_R.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1578,8 +1813,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Type Rin Castlegar",
-      "condition": "used"
+      "model": "Civic",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-Vin Castlegar",
@@ -1594,7 +1831,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "HR-Vin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Odyssey ",
@@ -1610,7 +1849,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport ",
@@ -1626,7 +1867,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot ",
@@ -1642,7 +1885,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Prelude ",
@@ -1658,7 +1903,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Prelude",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Ridgeline ",
@@ -1674,7 +1921,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport ",
@@ -1690,7 +1939,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid ",
@@ -1706,7 +1957,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Accord Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Sedan ",
@@ -1721,7 +1974,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Accord Sedan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V ",
@@ -1737,7 +1992,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid ",
@@ -1753,12 +2010,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hatchbackin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hatchbackin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/58c4e5b944a6.html",
       "source_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Hatchback.html",
       "dealer_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Hatchback.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1767,13 +2027,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hatchbackin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hatchback Hybridin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Hybridin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/36cd1427037e.html",
       "source_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Hatchback_Hybrid.html",
       "dealer_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Hatchback_Hybrid.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1782,8 +2045,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hatchback Hybridin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan ",
@@ -1797,7 +2062,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Sedan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid ",
@@ -1813,7 +2080,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic ",
@@ -1829,12 +2098,15 @@
       "year": 2026,
       "make": "Honda",
       "model": "Civic",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Type Rin Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Type Rin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/3db1ffe54980.html",
       "source_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Type_R.html",
       "dealer_url": "https://www.glacierhonda.com/new/2026-Honda-Civic_Type_R.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1843,8 +2115,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Type Rin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda HR-Vin Castlegar",
@@ -1859,7 +2133,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "HR-Vin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Odyssey ",
@@ -1875,7 +2151,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Odyssey",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport ",
@@ -1891,7 +2169,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Pilot ",
@@ -1907,7 +2187,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Pilot",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Prelude ",
@@ -1923,7 +2205,9 @@
       "year": 2026,
       "make": "Honda",
       "model": "Prelude",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Ridgeline ",
@@ -1939,13 +2223,16 @@
       "year": 2026,
       "make": "Honda",
       "model": "Ridgeline",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Hybrid Touring eCVT Sedanin Castlegar",
       "vin": "1HGCY2F86TA800736",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Touring eCVT Sedanin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/608647f9956a.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Accord_Hybrid-id13411609.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Accord_Hybrid-id13411609.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1954,13 +2241,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Hybrid Touring eCVT Sedanin Castlegar",
-      "condition": "new"
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Accord Sedan Basein Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/c71c73ddd91b.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Accord_Sedan-id14093017.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Accord_Sedan-id14093017.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1969,13 +2259,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Accord Sedan Basein Castlegar",
-      "condition": "new"
+      "model": "Accord",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Basein Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2632765ba1c4.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13347307.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13347307.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1984,13 +2277,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Basein Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Basein Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/5df4227ed82b.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13347321.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13347321.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -1999,14 +2295,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Basein Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H57TH109412",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/0c0133f9c44a.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13411580.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13411580.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2015,14 +2314,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H54TH110081",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/0314e74e4061.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13411588.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13411588.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2031,14 +2333,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H53TH109293",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/48be9b7e13cd.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13411602.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13411602.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2047,14 +2352,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H55TH113927",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/87fd85402fb4.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13553742.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id13553742.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2063,14 +2371,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H55TH116360",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/493fd28a6672.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14040514.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14040514.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2079,14 +2390,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H55TH117735",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a8f4577c8aa9.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14152567.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14152567.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2095,14 +2409,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H54TH118357",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/3058405bf949.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14171564.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14171564.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2111,14 +2428,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H58TH119494",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/538a9aa0109b.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14204994.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14204994.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2127,14 +2447,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V LX AWDin Castlegar",
       "vin": "2HKRS4H28TH120120",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "LX AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/eff7631fb540.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14210384.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V-id14210384.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2143,14 +2466,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V LX AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid TrailSport AWDin Castlegar",
       "vin": "2HKRS6H69TH220712",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "TrailSport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/1a98711e5edf.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13217560.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13217560.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2159,14 +2485,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid TrailSport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid EX-L AWDin Castlegar",
       "vin": "2HKRS6H77TH234536",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-L AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/e2d2b9b73c64.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13411585.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13411585.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2175,14 +2504,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid EX-L AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWDin Castlegar",
       "vin": "2HKRS6H54TH251955",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/070736cab5e3.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13962745.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13962745.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2191,14 +2523,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWDin Castlegar",
       "vin": "2HKRS6H5XTH251958",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/481e0181077d.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13962747.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13962747.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2207,14 +2542,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWDin Castlegar",
       "vin": "2HKRS6H59TH250638",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2c894c61f117.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13962758.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id13962758.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2223,14 +2561,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Ex-Lin Castlegar",
       "vin": "2HKRS6H91T2925000",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Ex-Lin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a0adca455278.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id14204995.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id14204995.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2239,14 +2580,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Ex-Lin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda CR-V Hybrid Sport AWDin Castlegar",
       "vin": "2HKRS6H57TH250735",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/6df63ae685cb.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id14266730.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-CR_V_Hybrid-id14266730.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2255,13 +2599,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "CR-V Hybrid Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "CR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Basein Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/c17cdcf2d82c.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id13347309.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id13347309.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2270,13 +2617,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Basein Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Basein Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/3c8a227d0b0d.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id13433383.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id13433383.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2285,14 +2635,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Basein Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Castlegar",
       "vin": "2HGFE2F55TH110750",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2e4d8eacdfaf.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id13433389.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id13433389.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2301,14 +2654,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Castlegar",
       "vin": "2HGFE2F5XTH109500",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/adf24c3cad98.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id13567902.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id13567902.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2317,13 +2673,16 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Basein Castlegar",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/0baab36c970e.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id14093016.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id14093016.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2332,14 +2691,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Basein Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Manualin Castlegar",
       "vin": "2HGFE1E55TH081603",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Manualin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a00a3a5cbbda.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id14225429.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id14225429.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2348,14 +2710,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Manualin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Castlegar",
       "vin": "2HGFE2F5XTH116849",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/b15dd65590ef.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id14225430.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id14225430.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2364,14 +2729,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sport CVT Sedanin Castlegar",
       "vin": "2HGFE2F57TH116937",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport Sedanin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/1119eafce8fd.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id14225431.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic-id14225431.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2380,14 +2748,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sport CVT Sedanin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport eCVT Sedanin Castlegar",
       "vin": "2HGFE4F85TH015790",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport eCVT Sedanin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/f2fc499cb0e8.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13707309.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13707309.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2396,14 +2767,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport eCVT Sedanin Castlegar",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Hybrid Sport eCVT Sedanin Castlegar",
       "vin": "2HGFE4F87TH016293",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport eCVT Sedanin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/c776f9a75180.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13707317.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic_Hybrid-id13707317.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2412,14 +2786,17 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Hybrid Sport eCVT Sedanin Castlegar",
-      "condition": "new"
+      "model": "Civic Hybrid",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Civic Sedan Si Manualin Castlegar",
       "vin": "2HGFE1E50TH081220",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Si Manualin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/d2fe337917b7.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic_Sedan_Si-id13707315.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2026-Honda-Civic_Sedan_Si-id13707315.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2428,8 +2805,10 @@
       "price_currency": "CAD",
       "year": 2026,
       "make": "Honda",
-      "model": "Civic Sedan Si Manualin Castlegar",
-      "condition": "new"
+      "model": "Civic",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Honda Passport ",
@@ -2445,13 +2824,16 @@
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan Comfortline R-Linein Castlegar",
       "vin": "3VVGR7RM7TM055003",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Comfortline R-Linein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4dcb7dd3f6be.html",
       "source_url": "https://www.glacierhonda.com/used/2026-Volkswagen-Tiguan-id14165919.html",
       "dealer_url": "https://www.glacierhonda.com/used/2026-Volkswagen-Tiguan-id14165919.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2461,8 +2843,10 @@
       "odometer_km": 22356,
       "year": 2026,
       "make": "Volkswagen",
-      "model": "Tiguan Comfortline R-Linein Castlegar",
-      "condition": "used"
+      "model": "Tiguan",
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2477,7 +2861,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -2492,7 +2878,9 @@
       "year": 2026,
       "make": "Volkswagen",
       "model": "Tiguan",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2505,7 +2893,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Hybrid ",
@@ -2519,7 +2909,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V ",
@@ -2535,7 +2927,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odysseyin Castlegar",
@@ -2550,7 +2944,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "Odysseyin Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Preludein Castlegar",
@@ -2565,7 +2961,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "Preludein Castlegar",
-      "condition": "used"
+      "condition": "used",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V ",
@@ -2578,7 +2976,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda CR-V Hybrid ",
@@ -2592,7 +2992,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "CR-V Hybrid",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V ",
@@ -2608,7 +3010,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "HR-V",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Odysseyin Castlegar",
@@ -2623,7 +3027,9 @@
       "year": 2027,
       "make": "Honda",
       "model": "Odysseyin Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda Preludein Castlegar",
@@ -2638,13 +3044,16 @@
       "year": 2027,
       "make": "Honda",
       "model": "Preludein Castlegar",
-      "condition": "new"
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Sport AWDin Castlegar",
       "vin": "3CZRZ2H5XVM100940",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/04d75ccd0bd2.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13433373.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13433373.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2653,14 +3062,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Sport AWDin Castlegar",
       "vin": "3CZRZ2H55VM101039",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/0003ca8d5a4a.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13433378.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13433378.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2669,14 +3081,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V EX-L AWDin Castlegar",
       "vin": "3CZRZ2H73VM101199",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-L AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/c57fc92fb44c.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13433381.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13433381.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2685,14 +3100,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V EX-L AWDin Castlegar",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V EX-L AWDin Castlegar",
       "vin": "3CZRZ2H72VM101453",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "EX-L AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4e1a38d98760.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13433384.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13433384.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2701,14 +3119,17 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V EX-L AWDin Castlegar",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     },
     {
       "name": "2027 Honda HR-V Sport AWDin Castlegar",
       "vin": "3CZRZ2H51VM103662",
       "stock": "NUMBER",
       "color": "{$COLOREX}",
+      "trim": "Sport AWDin Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/9413891085c7.html",
       "source_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13707314.html",
       "dealer_url": "https://www.glacierhonda.com/new/inventory/2027-Honda-HR_V-id13707314.html?utm_source=aioptics&utm_medium=ai_mirror&utm_campaign=visibility",
@@ -2717,8 +3138,10 @@
       "price_currency": "CAD",
       "year": 2027,
       "make": "Honda",
-      "model": "HR-V Sport AWDin Castlegar",
-      "condition": "new"
+      "model": "HR-V",
+      "condition": "new",
+      "city": "Castlegar",
+      "province": "BC"
     }
   ]
 }
