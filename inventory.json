@@ -1,7 +1,7 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-10-25T20:41:55",
-  "vehicle_count": 177,
+  "generated_at": "2026-10-25T20:45:51",
+  "vehicle_count": 185,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -100,6 +100,14 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H59TH250638",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2c894c61f117.html",
+      "condition": "new",
+      "price": 48550.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "New 2026 Honda CR-V Hybrid EX-L AWDin Castlegar",
       "vin": "2HKRS6H74TH250578",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/e3ff27117a17.html",
@@ -113,6 +121,70 @@
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/cb8cacf06a63.html",
       "condition": "new",
       "price": 53300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Ex-Lin Castlegar",
+      "vin": "2HKRS6H91T2910138",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/42391107db89.html",
+      "condition": "new",
+      "price": 50800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
+      "vin": "2HKRS6H91T2908404",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4270f8622a57.html",
+      "condition": "new",
+      "price": 53300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
+      "vin": "2HKRS6H91T2905187",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/79101e03e16d.html",
+      "condition": "new",
+      "price": 53300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Trailsportin Castlegar",
+      "vin": "2HKRS6H91T3209216",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/8670eb8446af.html",
+      "condition": "new",
+      "price": 49400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Ex-Lin Castlegar",
+      "vin": "2HKRS6H91T2925000",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/408087ea13a8.html",
+      "condition": "new",
+      "price": 50800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
+      "vin": "2HKRS6H91T2922074",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/b571f9734c5c.html",
+      "condition": "new",
+      "price": 53300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic Sportin Castlegar",
+      "vin": "2HKRS6H91T2911229",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a6dd5f647b74.html",
+      "condition": "new",
+      "price": 34130.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic SIin Castlegar",
+      "vin": "2HKRS6H91T2987402",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/17ee168c9ea3.html",
+      "condition": "new",
+      "price": 38530.0,
       "price_currency": "CAD"
     },
     {
@@ -1457,17 +1529,6 @@
       "model": "CR-V",
       "condition": "new",
       "price": 51350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid Sport AWDin Castlegar",
-      "vin": "2HKRS6H59TH250638",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2c894c61f117.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 48550.0,
       "price_currency": "CAD"
     },
     {
