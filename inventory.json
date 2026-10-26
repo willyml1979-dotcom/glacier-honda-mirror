@@ -1,6 +1,6 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-10-26T05:35:21",
+  "generated_at": "2026-10-26T05:36:38",
   "vehicle_count": 185,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -113,6 +113,14 @@
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/e3ff27117a17.html",
       "condition": "new",
       "price": 51350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H57TH250735",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/6df63ae685cb.html",
+      "condition": "new",
+      "price": 48550.0,
       "price_currency": "CAD"
     },
     {
@@ -1540,17 +1548,6 @@
       "model": "CR-V",
       "condition": "new",
       "price": 50800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Honda CR-V Hybrid Sport AWDin Castlegar",
-      "vin": "2HKRS6H57TH250735",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/6df63ae685cb.html",
-      "year": 2026,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "new",
-      "price": 48550.0,
       "price_currency": "CAD"
     },
     {
