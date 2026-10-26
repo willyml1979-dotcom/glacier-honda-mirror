@@ -1,6 +1,6 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-10-25T20:45:51",
+  "generated_at": "2026-10-26T05:35:21",
   "vehicle_count": 185,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -455,7 +455,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 22198.0,
+      "price": 21676.0,
       "price_currency": "CAD"
     },
     {
@@ -466,7 +466,7 @@
       "make": "Jeep",
       "model": "Grand Cherokee",
       "condition": "used",
-      "price": 22198.0,
+      "price": 21676.0,
       "price_currency": "CAD"
     },
     {
@@ -532,7 +532,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 26676.0,
+      "price": 26376.0,
       "price_currency": "CAD"
     },
     {
@@ -543,7 +543,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 26676.0,
+      "price": 26376.0,
       "price_currency": "CAD"
     },
     {
@@ -1159,7 +1159,7 @@
       "make": "Honda",
       "model": "Accord Hybrid",
       "condition": "used",
-      "price": 44396.0,
+      "price": 43876.0,
       "price_currency": "CAD"
     },
     {
