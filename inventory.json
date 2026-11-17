@@ -1,319 +1,151 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-10-26T05:36:38",
-  "vehicle_count": 185,
+  "generated_at": "2026-11-17T01:42:51",
+  "vehicle_count": 176,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
     {
-      "name": "New 2026 Honda Accord Hybrid Touring eCVT Sedanin Castlegar",
-      "vin": "1HGCY2F86TA800736",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/608647f9956a.html",
-      "condition": "new",
-      "price": 48680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Accord Hybrid Sportin Castlegar",
-      "vin": "1HGCY2F74TA802511",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/3f515ab81bb9.html",
-      "condition": "new",
-      "price": 46180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Accord Sedan Basein Castlegar",
-      "vin": "1HGCY2F74TA802511",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2bddc90452aa.html",
-      "condition": "new",
-      "price": 46180.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
-      "vin": "2HKRS4H54TH110081",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/0314e74e4061.html",
-      "condition": "new",
-      "price": 46418.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
-      "vin": "2HKRS4H53TH109293",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/48be9b7e13cd.html",
-      "condition": "new",
-      "price": 46025.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
-      "vin": "2HKRS4H55TH116360",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/493fd28a6672.html",
-      "condition": "new",
-      "price": 45475.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
-      "vin": "2HKRS4H55TH117735",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a8f4577c8aa9.html",
-      "condition": "new",
-      "price": 46025.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
-      "vin": "2HKRS4H54TH118357",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/3058405bf949.html",
-      "condition": "new",
-      "price": 45475.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid TrailSport AWDin Castlegar",
-      "vin": "2HKRS6H69TH220712",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/1a98711e5edf.html",
-      "condition": "new",
-      "price": 49400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
-      "vin": "2HKRS6H50TH221125",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/f36a82bbe767.html",
-      "condition": "new"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
-      "vin": "2HKRS6H5XTH251958",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/481e0181077d.html",
-      "condition": "new",
-      "price": 48550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid EX-L AWDin Castlegar",
-      "vin": "2HKRS6H70TH251467",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/954b3340f253.html",
-      "condition": "new",
-      "price": 51350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
-      "vin": "2HKRS6H59TH250638",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2c894c61f117.html",
-      "condition": "new",
-      "price": 48550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid EX-L AWDin Castlegar",
-      "vin": "2HKRS6H74TH250578",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/e3ff27117a17.html",
-      "condition": "new",
-      "price": 51350.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
-      "vin": "2HKRS6H57TH250735",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/6df63ae685cb.html",
-      "condition": "new",
-      "price": 48550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
-      "vin": "2HKRS6H99TH238587",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/cb8cacf06a63.html",
-      "condition": "new",
-      "price": 53300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Ex-Lin Castlegar",
-      "vin": "2HKRS6H91T2910138",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/42391107db89.html",
-      "condition": "new",
-      "price": 50800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
-      "vin": "2HKRS6H91T2908404",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4270f8622a57.html",
-      "condition": "new",
-      "price": 53300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
-      "vin": "2HKRS6H91T2905187",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/79101e03e16d.html",
-      "condition": "new",
-      "price": 53300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Trailsportin Castlegar",
-      "vin": "2HKRS6H91T3209216",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/8670eb8446af.html",
-      "condition": "new",
-      "price": 49400.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Ex-Lin Castlegar",
-      "vin": "2HKRS6H91T2925000",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/408087ea13a8.html",
-      "condition": "new",
-      "price": 50800.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
-      "vin": "2HKRS6H91T2922074",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/b571f9734c5c.html",
-      "condition": "new",
-      "price": 53300.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Civic Sportin Castlegar",
-      "vin": "2HKRS6H91T2911229",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a6dd5f647b74.html",
-      "condition": "new",
-      "price": 34130.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Civic SIin Castlegar",
-      "vin": "2HKRS6H91T2987402",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/17ee168c9ea3.html",
-      "condition": "new",
-      "price": 38530.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Civic Sedan Sportin Castlegar",
-      "vin": "2HGFE2F54TH118399",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/d6a5ed8514b2.html",
-      "condition": "new",
-      "price": 34680.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Passport Basein Castlegar",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4c049b623346.html",
-      "condition": "new",
-      "price": 62640.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Pilot Black Edition AWDin Castlegar",
-      "vin": "5FNYG1H96TB505053",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/05108271faad.html",
-      "condition": "new",
-      "price": 69050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Pilot Basein Castlegar",
-      "vin": "5FNYG1H75TB506290",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2c9dee08a922.html",
-      "condition": "new",
-      "price": 67550.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Prelude Coupein Castlegar",
-      "vin": "JHMBF1D60TX800268",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/04ad433df928.html",
-      "condition": "new",
-      "price": 62277.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2026 Honda Ridgeline TrailSport AWDin Castlegar",
-      "vin": "5FPYK3F63TB502847",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/1ef118ba0b76.html",
-      "condition": "new",
-      "price": 59140.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Honda CR-V Hybrid Sport AWDin Castlegar",
-      "vin": "2HKRS6H55VH200094",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/9639da08a1a6.html",
-      "condition": "new",
-      "price": 49050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Honda CR-V Hybrid Sport AWDin Castlegar",
-      "vin": "2HKRS6H58VH200106",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/8553c1b4704a.html",
-      "condition": "new",
-      "price": 49050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Honda CR-V Hybrid Sportin Castlegar",
-      "vin": "2HKRS6H52VH201428",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a724ea2848ca.html",
-      "condition": "new",
-      "price": 49050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "New 2027 Honda CR-V Hybrid Sportin Castlegar",
-      "vin": "2HKRS6H56VH201450",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/ebf9d591f6f9.html",
-      "condition": "new",
-      "price": 49050.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2001 Honda S2000 Manual Hardtopin Castlegar",
-      "vin": "JHMAP11461T800386",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/bcc57e769e1b.html",
-      "year": 2001,
-      "make": "Honda",
-      "model": "S2000 Manual Hardtopin Castlegar",
+      "name": "Chevrolet Silverado 3500HD 2018 for salein Castlegar",
+      "vin": "1GC4KZEY3JF159639",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/6dd9dbe0679a.html",
       "condition": "used",
-      "price": 70276.0,
+      "price": 61694.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2001 Honda S2000 ",
-      "vin": "JHMAP11461T800386",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/35f7a2fbab44.html",
-      "year": 2001,
-      "make": "Honda",
-      "model": "S2000",
+      "name": "RAM 2500 2018 for salein Castlegar",
+      "vin": "3C6TR5EJ8JG105066",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/d018f7c79b81.html",
       "condition": "used",
-      "price": 70276.0,
+      "price": 37694.0,
       "price_currency": "CAD"
     },
     {
-      "name": "2002 Ford Taurus 4dr Sdn SE Standardin Castlegar",
-      "vin": "1FAFP53U82G273172",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/a57f8d8ab428.html",
-      "year": 2002,
-      "make": "Ford",
-      "model": "Taurus 4dr Sdn SE Standardin Castlegar",
-      "condition": "used"
+      "name": "Toyota RAV4 2019 for salein Castlegar",
+      "vin": "2T3R1RFV1KW019344",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/5d347e37e7d9.html",
+      "condition": "used",
+      "price": 29396.0,
+      "price_currency": "CAD"
     },
     {
-      "name": "2002 Ford Taurus ",
-      "vin": "1FAFP53U82G273172",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/51f6e7b71ea1.html",
-      "year": 2002,
-      "make": "Ford",
-      "model": "Taurus",
+      "name": "Ford Super Duty F-450 DRW 2020 for salein Castlegar",
+      "vin": "1FT8W4DT7LEC95375",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/b0fe0097aede.html",
       "condition": "used",
-      "price": 4589.0,
+      "price": 90697.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2020 for salein Castlegar",
+      "vin": "2T3RWRFV6LW079543",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/8a8e628067ad.html",
+      "condition": "used",
+      "price": 33242.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Pilot 2021 for salein Castlegar",
+      "vin": "5FNYF6H07MB505078",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/b46dacb596c6.html",
+      "condition": "used",
+      "price": 36094.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2022 for salein Castlegar",
+      "vin": "1GCPYFED0NZ225897",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/6065f8e7075d.html",
+      "condition": "used",
+      "price": 44669.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford F-150 2022 for salein Castlegar",
+      "vin": "1FTEW1E84NFA82876",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/9ceb2aedd4e3.html",
+      "condition": "used",
+      "price": 50698.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Maverick 2022 for salein Castlegar",
+      "vin": "3FTTW8F96NRA15321",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/ac50f5e56ce2.html",
+      "condition": "used",
+      "price": 30694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Lexus NX 350h 2022 for salein Castlegar",
+      "vin": "2T2GKCEZ8NC008504",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/13cbbba462fe.html",
+      "condition": "used",
+      "price": 48694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda HR-V 2023 for salein Castlegar",
+      "vin": "3CZRZ2H50PM105017",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/f1ef84a8d456.html",
+      "condition": "used",
+      "price": 28694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Subaru WRX 2024 for salein Castlegar",
+      "vin": "JF1VBAB65R9813338",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/99409e352f15.html",
+      "condition": "used",
+      "price": 35742.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2025 for salein Castlegar",
+      "vin": "2GCUKDEDXS1218744",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/851f9dce13ce.html",
+      "condition": "used",
+      "price": 48584.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Yukon XL 2025 for salein Castlegar",
+      "vin": "1GKS2GRD2SR168081",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/12fdb54e1b04.html",
+      "condition": "used",
+      "price": 88694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Volkswagen Atlas 2025 for salein Castlegar",
+      "vin": "1V2FR2CAXSC568286",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/42e1042b09af.html",
+      "condition": "used",
+      "price": 54546.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Ford Super Duty F-350 SRW 2026 for salein Castlegar",
+      "vin": "1FT8W3BTXTEC28198",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/959ec8edfd63.html",
+      "condition": "used",
+      "price": 94593.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 3500 2026 for salein Castlegar",
+      "vin": "1GT4UWEY5TF207945",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/3997b21ad181.html",
+      "condition": "used",
+      "price": 103694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Kawasaki Kx 450 2023 for salein Castlegar",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/7e88923bbdc5.html",
+      "condition": "used",
+      "price": 7694.0,
       "price_currency": "CAD"
     },
     {
@@ -328,44 +160,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2013 Ford Escape 4WD 4dr Titaniumin Castlegar",
-      "vin": "1FMCU9J95DUD25904",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/406cf1ea197f.html",
-      "year": 2013,
-      "make": "Ford",
-      "model": "Escape",
+      "name": "2011 K-Z Sportsman S235RKSin Castlegar",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/e879ea795a40.html",
+      "year": 2011,
+      "make": "K-Z",
+      "model": "Sportsman S235RKSin Castlegar",
       "condition": "used",
-      "price": 8556.0,
+      "price": 10694.0,
       "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Ford Escape ",
-      "vin": "1FMCU9J95DUD25904",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/2d9138f10a64.html",
-      "year": 2013,
-      "make": "Ford",
-      "model": "Escape",
-      "condition": "used",
-      "price": 8556.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2013 Ford F-150 FX4in Castlegar",
-      "vin": "1FTFW1ET2DKF68097",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/0608d02d0409.html",
-      "year": 2013,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used"
-    },
-    {
-      "name": "2013 Ford F-150 ",
-      "vin": "1FTFW1ET2DKF68097",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/fbde6441267a.html",
-      "year": 2013,
-      "make": "Ford",
-      "model": "F-150",
-      "condition": "used"
     },
     {
       "name": "2013 Ford Escape ",
@@ -390,28 +192,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Chevrolet Traverse AWD 4dr LT w/1LTin Castlegar",
-      "vin": "1GNKVGKD7HJ148677",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/c8e8c140e731.html",
-      "year": 2017,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "used",
-      "price": 17976.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Chevrolet Traverse ",
-      "vin": "1GNKVGKD7HJ148677",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/29da903ed8b1.html",
-      "year": 2017,
-      "make": "Chevrolet",
-      "model": "Traverse",
-      "condition": "used",
-      "price": 18076.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2017 Chevrolet Traverse ",
       "vin": "1GNKVGKD7HJ148677",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/29da903ed8b1.html",
@@ -420,28 +200,6 @@
       "model": "Traverse",
       "condition": "new",
       "price": 18076.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Honda CR-V 4WD EXin Castlegar",
-      "vin": "2HKRW2H59HH114966",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/05822c12c79e.html",
-      "year": 2017,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 20476.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Honda CR-V ",
-      "vin": "2HKRW2H59HH114966",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/ff9955fe21a9.html",
-      "year": 2017,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 20476.0,
       "price_currency": "CAD"
     },
     {
@@ -456,47 +214,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2017 Jeep Grand Cherokee Limitedin Castlegar",
-      "vin": "1C4RJFBG7HC890170",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4753285d47bd.html",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 21676.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2017 Jeep Grand Cherokee ",
-      "vin": "1C4RJFBG7HC890170",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/02e471396dbc.html",
-      "year": 2017,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 21676.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mitsubishi Mirage ES Manualin Castlegar",
-      "vin": "ML32A3HJ4JH004384",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/cb067ff74fa9.html",
+      "name": "2018 Chevrolet Silverado 3500HD LTin Castlegar",
+      "vin": "1GC4KZEY3JF159639",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/0e8cc96a5530.html",
       "year": 2018,
-      "make": "Mitsubishi",
-      "model": "Mirage",
+      "make": "Chevrolet",
+      "model": "Silverado 3500HD",
       "condition": "used",
-      "price": 12694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Mitsubishi Mirage ",
-      "vin": "ML32A3HJ4JH004384",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/d6fcb29d9e86.html",
-      "year": 2018,
-      "make": "Mitsubishi",
-      "model": "Mirage",
-      "condition": "used",
-      "price": 12694.0,
+      "price": 61694.0,
       "price_currency": "CAD"
     },
     {
@@ -514,17 +239,6 @@
       "name": "2018 RAM 2500 Power Wagonin Castlegar",
       "vin": "3C6TR5EJ8JG105066",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4d18ba15a70c.html",
-      "year": 2018,
-      "make": "RAM",
-      "model": "2500",
-      "condition": "used",
-      "price": 37694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 RAM 2500 ",
-      "vin": "3C6TR5EJ8JG105066",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/d018f7c79b81.html",
       "year": 2018,
       "make": "RAM",
       "model": "2500",
@@ -584,18 +298,7 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 29694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Toyota RAV4 ",
-      "vin": "2T3R1RFV1KW019344",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/5d347e37e7d9.html",
-      "year": 2019,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 29694.0,
+      "price": 29396.0,
       "price_currency": "CAD"
     },
     {
@@ -623,17 +326,6 @@
     {
       "name": "2020 Ford Super Duty F-450 DRW ",
       "vin": "1FT8W4DT7LEC95375",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/b0fe0097aede.html",
-      "year": 2020,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 90697.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2020 Ford Super Duty F-450 DRW ",
-      "vin": "1FT8W4DT7LEC95375",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/b0fe0097aede.html",
       "year": 2020,
       "make": "Ford",
@@ -643,25 +335,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Acura ILX Premium A-Specin Castlegar",
-      "vin": "19UDE2F81MA800142",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4fb6c2905643.html",
-      "year": 2021,
-      "make": "Acura",
-      "model": "ILX",
+      "name": "2020 Toyota RAV4 Hybrid XSEin Castlegar",
+      "vin": "2T3RWRFV6LW079543",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/3e04f2871aab.html",
+      "year": 2020,
+      "make": "Toyota",
+      "model": "RAV4 Hybrid",
       "condition": "used",
-      "price": 28694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Acura ILX ",
-      "vin": "19UDE2F81MA800142",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/d9358eb1f3b1.html",
-      "year": 2021,
-      "make": "Acura",
-      "model": "ILX",
-      "condition": "used",
-      "price": 28694.0,
+      "price": 33242.0,
       "price_currency": "CAD"
     },
     {
@@ -687,39 +368,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2021 Honda Pilot ",
-      "vin": "5FNYF6H07MB505078",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/b46dacb596c6.html",
-      "year": 2021,
-      "make": "Honda",
-      "model": "Pilot",
-      "condition": "used",
-      "price": 36094.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee Altitude 4x4in Castlegar",
-      "vin": "1C4RJFAG0MC710913",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/5b47972ac8f5.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 31275.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2021 Jeep Grand Cherokee ",
-      "vin": "1C4RJFAG0MC710913",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/6fa57e153610.html",
-      "year": 2021,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 31275.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2021 Jeep Grand Cherokee ",
       "vin": "1C4RJFAG0MC710913",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/6fa57e153610.html",
@@ -731,6 +379,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2022 Chevrolet Silverado 1500 Lt Trail Bossin Castlegar",
+      "vin": "1GCPYFED0NZ225897",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/a9d36b242bf7.html",
+      "year": 2022,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used",
+      "price": 44669.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2022 Ford F-150 Tremorin Castlegar",
+      "vin": "1FTEW1E84NFA82876",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/bcdbe74baf0a.html",
+      "year": 2022,
+      "make": "Ford",
+      "model": "F-150",
+      "condition": "used",
+      "price": 50698.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2022 Ford Maverick XL AWD SuperCrewin Castlegar",
       "vin": "3FTTW8F96NRA15321",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/9ec166be4ad2.html",
@@ -738,40 +408,7 @@
       "make": "Ford",
       "model": "Maverick",
       "condition": "used",
-      "price": 31676.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Maverick ",
-      "vin": "3FTTW8F96NRA15321",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/ac50f5e56ce2.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Maverick",
-      "condition": "used",
-      "price": 31676.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Super Duty F-350 SRW XL 4WD Crew Cab 6.75' Boxin Castlegar",
-      "vin": "1FT8W3BT8NEF00945",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/d5ef13f51f9b.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 60186.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BT8NEF00945",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4fe8fd9863ab.html",
-      "year": 2022,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 60186.0,
+      "price": 30694.0,
       "price_currency": "CAD"
     },
     {
@@ -810,17 +447,6 @@
     {
       "name": "2022 Lexus NX 350h ",
       "vin": "2T2GKCEZ8NC008504",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/13cbbba462fe.html",
-      "year": 2022,
-      "make": "Lexus",
-      "model": "NX",
-      "condition": "used",
-      "price": 48694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2022 Lexus NX 350h ",
-      "vin": "2T2GKCEZ8NC008504",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/13cbbba462fe.html",
       "year": 2022,
       "make": "Lexus",
@@ -837,7 +463,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 58476.0,
+      "price": 57694.0,
       "price_currency": "CAD"
     },
     {
@@ -848,7 +474,7 @@
       "make": "RAM",
       "model": "3500",
       "condition": "used",
-      "price": 58476.0,
+      "price": 57694.0,
       "price_currency": "CAD"
     },
     {
@@ -870,7 +496,7 @@
       "make": "Ford",
       "model": "Edge",
       "condition": "used",
-      "price": 30176.0,
+      "price": 29694.0,
       "price_currency": "CAD"
     },
     {
@@ -896,25 +522,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2023 Honda CR-V Hybrid Touringin Castlegar",
-      "vin": "2HKRS6H99PH200833",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/767bcda4c28a.html",
+      "name": "2023 Honda HR-V Sportin Castlegar",
+      "vin": "3CZRZ2H50PM105017",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/9b440560caf0.html",
       "year": 2023,
       "make": "Honda",
-      "model": "CR-V",
+      "model": "HR-V",
       "condition": "used",
-      "price": 41976.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H99PH200833",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/2d082ecdf2a5.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 41976.0,
+      "price": 28694.0,
       "price_currency": "CAD"
     },
     {
@@ -951,6 +566,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "2023 Kawasaki kx 450in Castlegar",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/c3366a9afd57.html",
+      "year": 2023,
+      "make": "Kawasaki",
+      "model": "kx 450in Castlegar",
+      "condition": "used",
+      "price": 7694.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2023 Nissan Rogue ",
       "vin": "JN8BT3BB5PW224103",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4eb12a7cb6ce.html",
@@ -959,28 +584,6 @@
       "model": "Rogue",
       "condition": "new",
       "price": 28976.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota 4Runner 4WDin Castlegar",
-      "vin": "JTESU5JR5P6200270",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/fb5e9039fbfb.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "used",
-      "price": 53936.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Toyota 4Runner ",
-      "vin": "JTESU5JR5P6200270",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/747f00641e5a.html",
-      "year": 2023,
-      "make": "Toyota",
-      "model": "4Runner",
-      "condition": "used",
-      "price": 53936.0,
       "price_currency": "CAD"
     },
     {
@@ -1061,28 +664,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Honda CR-V Hybrid EX-L AWDin Castlegar",
-      "vin": "2HKRS6H77RH218796",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/feba633ee86d.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "CR-V",
-      "condition": "used",
-      "price": 42076.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H77RH218796",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/f88e0b2d099a.html",
-      "year": 2024,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
-      "condition": "used",
-      "price": 42076.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Honda CR-V Hybrid ",
       "vin": "2HKRS6H77RH218796",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/f88e0b2d099a.html",
@@ -1094,28 +675,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2024 Jeep Grand Cherokee Limited 4x4in Castlegar",
-      "vin": "1C4RJHBG3RC148300",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/a708857211c7.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 38694.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Jeep Grand Cherokee ",
-      "vin": "1C4RJHBG3RC148300",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/f3202b45dc60.html",
-      "year": 2024,
-      "make": "Jeep",
-      "model": "Grand Cherokee",
-      "condition": "used",
-      "price": 38694.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2024 Jeep Grand Cherokee ",
       "vin": "1C4RJHBG3RC148300",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/f3202b45dc60.html",
@@ -1124,6 +683,28 @@
       "model": "Grand Cherokee",
       "condition": "new",
       "price": 38694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2024 Subaru WRX Basein Castlegar",
+      "vin": "JF1VBAB65R9813338",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/fd403d72864f.html",
+      "year": 2024,
+      "make": "Subaru",
+      "model": "WRX",
+      "condition": "used",
+      "price": 35742.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Chevrolet Silverado 1500 LTin Castlegar",
+      "vin": "2GCUKDEDXS1218744",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/718e908ae4c5.html",
+      "year": 2025,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used",
+      "price": 48584.0,
       "price_currency": "CAD"
     },
     {
@@ -1160,25 +741,14 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 Honda Accord Hybrid Touring eCVT Sedanin Castlegar",
-      "vin": "1HGCY2F82SA802319",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/242fc83f7ec5.html",
+      "name": "2025 GMC Yukon XL 4WD 4dr Elevationin Castlegar",
+      "vin": "1GKS2GRD2SR168081",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/516f7377a40c.html",
       "year": 2025,
-      "make": "Honda",
-      "model": "Accord Hybrid",
+      "make": "GMC",
+      "model": "Yukon XL",
       "condition": "used",
-      "price": 43876.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda Accord Hybrid ",
-      "vin": "1HGCY2F82SA802319",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/5c787a0efea7.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "Accord Hybrid",
-      "condition": "used",
-      "price": 43876.0,
+      "price": 88694.0,
       "price_currency": "CAD"
     },
     {
@@ -1212,6 +782,17 @@
       "model": "Accord Hybrid",
       "condition": "new",
       "price": 44396.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2025 Volkswagen Atlas Execline 2.0 TSI 4MOTIONin Castlegar",
+      "vin": "1V2FR2CAXSC568286",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/6cd89d9cdc42.html",
+      "year": 2025,
+      "make": "Volkswagen",
+      "model": "Atlas",
+      "condition": "used",
+      "price": 54546.0,
       "price_currency": "CAD"
     },
     {
@@ -1256,6 +837,28 @@
       "model": "Durango",
       "condition": "used",
       "price": 60290.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Ford Super Duty F-350 SRW Lariatin Castlegar",
+      "vin": "1FT8W3BTXTEC28198",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/237f6b633eb5.html",
+      "year": 2026,
+      "make": "Ford",
+      "model": "Super Duty",
+      "condition": "used",
+      "price": 94593.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 GMC Sierra 3500 Denaliin Castlegar",
+      "vin": "1GT4UWEY5TF207945",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/6f865887fc0d.html",
+      "year": 2026,
+      "make": "GMC",
+      "model": "Sierra 3500",
+      "condition": "used",
+      "price": 103694.0,
       "price_currency": "CAD"
     },
     {
@@ -1427,6 +1030,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda Accord Hybrid Touring eCVT Sedanin Castlegar",
+      "vin": "1HGCY2F86TA800736",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/608647f9956a.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "price": 48680.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Accord Hybrid Sportin Castlegar",
+      "vin": "1HGCY2F74TA802511",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/3f515ab81bb9.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Accord Hybrid",
+      "condition": "new",
+      "price": 46180.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Honda Accord Sedan Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/c71c73ddd91b.html",
       "year": 2026,
@@ -1434,6 +1059,17 @@
       "model": "Accord",
       "condition": "new",
       "price": 45600.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Accord Sedan Basein Castlegar",
+      "vin": "1HGCY2F74TA802511",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2bddc90452aa.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Accord",
+      "condition": "new",
+      "price": 46180.0,
       "price_currency": "CAD"
     },
     {
@@ -1507,6 +1143,28 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
+      "vin": "2HKRS4H54TH110081",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/0314e74e4061.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 46418.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
+      "vin": "2HKRS4H53TH109293",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/48be9b7e13cd.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 46025.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Honda CR-V Sport AWDin Castlegar",
       "vin": "2HKRS4H55TH113927",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/87fd85402fb4.html",
@@ -1515,6 +1173,39 @@
       "model": "CR-V",
       "condition": "new",
       "price": 46025.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
+      "vin": "2HKRS4H55TH116360",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/493fd28a6672.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 45475.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
+      "vin": "2HKRS4H55TH117735",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a8f4577c8aa9.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 46025.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Sport AWDin Castlegar",
+      "vin": "2HKRS4H54TH118357",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/3058405bf949.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 45475.0,
       "price_currency": "CAD"
     },
     {
@@ -1540,6 +1231,59 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda CR-V Hybrid TrailSport AWDin Castlegar",
+      "vin": "2HKRS6H69TH220712",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/1a98711e5edf.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 49400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H50TH221125",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/f36a82bbe767.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H5XTH251958",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/481e0181077d.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 48550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid EX-L AWDin Castlegar",
+      "vin": "2HKRS6H70TH251467",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/954b3340f253.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 51350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H59TH250638",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2c894c61f117.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 48550.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Honda CR-V Hybrid Ex-Lin Castlegar",
       "vin": "2HKRS6H91T2925000",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a0adca455278.html",
@@ -1548,6 +1292,39 @@
       "model": "CR-V",
       "condition": "new",
       "price": 50800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid EX-L AWDin Castlegar",
+      "vin": "2HKRS6H74TH250578",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/e3ff27117a17.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 51350.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H57TH250735",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/6df63ae685cb.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 48550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
+      "vin": "2HKRS6H99TH238587",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/cb8cacf06a63.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 53300.0,
       "price_currency": "CAD"
     },
     {
@@ -1620,6 +1397,72 @@
       "name": "2026 Honda CR-V Hybrid Touringin Castlegar",
       "vin": "2HKRS6H91T2908298",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/38077af3c5b2.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 53300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Ex-Lin Castlegar",
+      "vin": "2HKRS6H91T2910138",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/42391107db89.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 50800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
+      "vin": "2HKRS6H91T2908404",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4270f8622a57.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 53300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
+      "vin": "2HKRS6H91T2905187",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/79101e03e16d.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 53300.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Trailsportin Castlegar",
+      "vin": "2HKRS6H91T3209216",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/8670eb8446af.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 49400.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Ex-Lin Castlegar",
+      "vin": "2HKRS6H91T2925000",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/408087ea13a8.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 50800.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Touringin Castlegar",
+      "vin": "2HKRS6H91T2922074",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/b571f9734c5c.html",
       "year": 2026,
       "make": "Honda",
       "model": "CR-V",
@@ -1713,6 +1556,39 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda Civic Sportin Castlegar",
+      "vin": "2HKRS6H91T2911229",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a6dd5f647b74.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 34130.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic SIin Castlegar",
+      "vin": "2HKRS6H91T2987402",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/17ee168c9ea3.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 38530.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Civic Sedan Sportin Castlegar",
+      "vin": "2HGFE2F54TH118399",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/d6a5ed8514b2.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Civic",
+      "condition": "new",
+      "price": 34680.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Honda Civic Sedan Si Manualin Castlegar",
       "vin": "2HGFE1E50TH081220",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/d2fe337917b7.html",
@@ -1735,6 +1611,16 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda Passport Basein Castlegar",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4c049b623346.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 62640.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Honda Pilot Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2e7008171ce7.html",
       "year": 2026,
@@ -1742,6 +1628,39 @@
       "model": "Pilot",
       "condition": "new",
       "price": 57650.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Pilot Black Edition AWDin Castlegar",
+      "vin": "5FNYG1H96TB505053",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/05108271faad.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Pilot",
+      "condition": "new",
+      "price": 69050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Pilot Basein Castlegar",
+      "vin": "5FNYG1H75TB506290",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/2c9dee08a922.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Pilot",
+      "condition": "new",
+      "price": 67550.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Prelude Coupein Castlegar",
+      "vin": "JHMBF1D60TX800268",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/04ad433df928.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Prelude Coupein Castlegar",
+      "condition": "new",
+      "price": 62277.0,
       "price_currency": "CAD"
     },
     {
@@ -1756,6 +1675,17 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2026 Honda Ridgeline TrailSport AWDin Castlegar",
+      "vin": "5FPYK3F63TB502847",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/1ef118ba0b76.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Ridgeline",
+      "condition": "new",
+      "price": 59140.0,
+      "price_currency": "CAD"
+    },
+    {
       "name": "2026 Honda Passport ",
       "vin": "5FNYF9H84TB508428",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/1ab37a420b0f.html",
@@ -1763,28 +1693,6 @@
       "make": "Honda",
       "model": "Passport",
       "condition": "new"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan Comfortline R-Linein Castlegar",
-      "vin": "3VVGR7RM7TM055003",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/4dcb7dd3f6be.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 44676.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Volkswagen Tiguan ",
-      "vin": "3VVGR7RM7TM055003",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/0fa2c3c498c4.html",
-      "year": 2026,
-      "make": "Volkswagen",
-      "model": "Tiguan",
-      "condition": "used",
-      "price": 44676.0,
-      "price_currency": "CAD"
     },
     {
       "name": "2026 Volkswagen Tiguan ",
@@ -1844,6 +1752,50 @@
       "model": "Preludein Castlegar",
       "condition": "new",
       "price": 53279.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H55VH200094",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/9639da08a1a6.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 49050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H58VH200106",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/8553c1b4704a.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 49050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda CR-V Hybrid Sportin Castlegar",
+      "vin": "2HKRS6H52VH201428",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/a724ea2848ca.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 49050.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda CR-V Hybrid Sportin Castlegar",
+      "vin": "2HKRS6H56VH201450",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/ebf9d591f6f9.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new",
+      "price": 49050.0,
       "price_currency": "CAD"
     },
     {
