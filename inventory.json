@@ -1,7 +1,7 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-11-17T01:42:51",
-  "vehicle_count": 176,
+  "generated_at": "2026-11-17T01:47:06",
+  "vehicle_count": 180,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1252,6 +1252,15 @@
     },
     {
       "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
+      "vin": "2HKRS6H5XTH221634",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/b59a81ccacfb.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new"
+    },
+    {
+      "name": "New 2026 Honda CR-V Hybrid Sport AWDin Castlegar",
       "vin": "2HKRS6H5XTH251958",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/481e0181077d.html",
       "year": 2026,
@@ -1755,6 +1764,15 @@
       "price_currency": "CAD"
     },
     {
+      "name": "New 2027 Honda CR-V Basein Castlegar",
+      "vin": "2HKRS4H57VH102740",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/bc84076338ac.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "CR-V",
+      "condition": "new"
+    },
+    {
       "name": "New 2027 Honda CR-V Hybrid Sport AWDin Castlegar",
       "vin": "2HKRS6H55VH200094",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/9639da08a1a6.html",
@@ -1797,6 +1815,15 @@
       "condition": "new",
       "price": 49050.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda Civic Hybrid Sport Touring CVTin Castlegar",
+      "vin": "2HGFE4F96VH000064",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/5a0986e75730.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "Civic Hybrid",
+      "condition": "new"
     },
     {
       "name": "2027 Honda HR-V Sport AWDin Castlegar",
@@ -1852,6 +1879,15 @@
       "condition": "new",
       "price": 38550.0,
       "price_currency": "CAD"
+    },
+    {
+      "name": "New 2027 Honda HR-V Basein Castlegar",
+      "vin": "3CZRZ2H75VM109191",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/3e81af900035.html",
+      "year": 2027,
+      "make": "Honda",
+      "model": "HR-V",
+      "condition": "new"
     }
   ]
 }

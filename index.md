@@ -1,6 +1,6 @@
 # Glacier Honda
 
- dealership in Castlegar. AI-readable inventory mirror, about 176 vehicles.
+ dealership in Castlegar. AI-readable inventory mirror, about 180 vehicles.
 
 - Official website: https://www.glacierhonda.com/
 - Used vehicles: https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/
