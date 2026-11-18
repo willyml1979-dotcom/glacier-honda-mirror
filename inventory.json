@@ -1,6 +1,6 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-11-17T21:46:25",
+  "generated_at": "2026-11-18T07:21:33",
   "vehicle_count": 179,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
@@ -27,6 +27,22 @@
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/d018f7c79b81.html",
       "condition": "used",
       "price": 37694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Toyota RAV4 2018 for salein Castlegar",
+      "vin": "2T3RFREV9JW839463",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/6e99d3fd9483.html",
+      "condition": "used",
+      "price": 26194.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Passport 2019 for salein Castlegar",
+      "vin": "5FNYF8H95KB502946",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/1a78a479e579.html",
+      "condition": "used",
+      "price": 26394.0,
       "price_currency": "CAD"
     },
     {
@@ -91,6 +107,14 @@
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/13cbbba462fe.html",
       "condition": "used",
       "price": 48694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "RAM 3500 2022 for salein Castlegar",
+      "vin": "3C63R3HL6NG238819",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/233cfa432e9a.html",
+      "condition": "used",
+      "price": 57694.0,
       "price_currency": "CAD"
     },
     {
@@ -321,35 +345,13 @@
       "make": "Toyota",
       "model": "RAV4",
       "condition": "used",
-      "price": 26376.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2018 Toyota RAV4 ",
-      "vin": "2T3RFREV9JW839463",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/6e99d3fd9483.html",
-      "year": 2018,
-      "make": "Toyota",
-      "model": "RAV4",
-      "condition": "used",
-      "price": 26376.0,
+      "price": 26194.0,
       "price_currency": "CAD"
     },
     {
       "name": "2019 Honda Passport Touringin Castlegar",
       "vin": "5FNYF8H95KB502946",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/e128f4b06c85.html",
-      "year": 2019,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 26394.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2019 Honda Passport ",
-      "vin": "5FNYF8H95KB502946",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/1a78a479e579.html",
       "year": 2019,
       "make": "Honda",
       "model": "Passport",
@@ -545,17 +547,6 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2022 RAM 3500 ",
-      "vin": "3C63R3HL6NG238819",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/233cfa432e9a.html",
-      "year": 2022,
-      "make": "RAM",
-      "model": "3500",
-      "condition": "used",
-      "price": 58476.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2023 Ford Edge ST AWDin Castlegar",
       "vin": "2FMPK4AP5PBA03458",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/cd559b47789a.html",
@@ -661,7 +652,7 @@
       "make": "Ford",
       "model": "E-450 DRW 158\" WBin Castlegar",
       "condition": "used",
-      "price": 49886.0,
+      "price": 49196.0,
       "price_currency": "CAD"
     },
     {
