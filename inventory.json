@@ -1,7 +1,7 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-11-17T21:44:37",
-  "vehicle_count": 178,
+  "generated_at": "2026-11-17T21:46:25",
+  "vehicle_count": 179,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -1579,6 +1579,17 @@
     {
       "name": "New 2026 Honda Passport Basein Castlegar",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/4c049b623346.html",
+      "year": 2026,
+      "make": "Honda",
+      "model": "Passport",
+      "condition": "new",
+      "price": 62640.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "New 2026 Honda Passport Trailsport Touringin Castlegar",
+      "vin": "2HKRS6T91T3210210",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/89c431a64144.html",
       "year": 2026,
       "make": "Honda",
       "model": "Passport",
