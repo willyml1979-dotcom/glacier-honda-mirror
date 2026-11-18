@@ -1,7 +1,7 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-11-18T07:21:33",
-  "vehicle_count": 179,
+  "generated_at": "2026-11-18T15:46:05",
+  "vehicle_count": 180,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
@@ -186,7 +186,7 @@
       "vin": "1V2FR2CAXSC568286",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/42e1042b09af.html",
       "condition": "used",
-      "price": 54546.0,
+      "price": 50931.0,
       "price_currency": "CAD"
     },
     {
@@ -762,13 +762,24 @@
       "make": "Volkswagen",
       "model": "Atlas",
       "condition": "used",
-      "price": 54546.0,
+      "price": 50931.0,
       "price_currency": "CAD"
     },
     {
       "name": "2026 Chevrolet Silverado 1500 Lt Trail Bossin Castlegar",
       "vin": "3GCUKFE83TG227793",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/39e7ff482489.html",
+      "year": 2026,
+      "make": "Chevrolet",
+      "model": "Silverado 1500",
+      "condition": "used",
+      "price": 69094.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2026 Chevrolet Silverado 1500 Lt Trail Bossin Castlegar",
+      "vin": "3GCUKFE83TG227793",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/5ab5cbfcf749.html",
       "year": 2026,
       "make": "Chevrolet",
       "model": "Silverado 1500",
