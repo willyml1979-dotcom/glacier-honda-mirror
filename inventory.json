@@ -1,10 +1,18 @@
 {
   "dealership": "Glacier Honda",
-  "generated_at": "2026-11-17T01:47:06",
-  "vehicle_count": 180,
+  "generated_at": "2026-11-17T21:44:37",
+  "vehicle_count": 178,
   "currency": "CAD",
   "note": "Index of vehicles published by AiOptics. Each vehicle links to its full detail page, which carries the complete structured data (odometer, trim, color, stock, etc.).",
   "vehicles": [
+    {
+      "name": "Honda Accord Sedan 2006 for salein Castlegar",
+      "vin": "1HGCM56316A804070",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/66e5b89dc81a.html",
+      "condition": "used",
+      "price": 9694.0,
+      "price_currency": "CAD"
+    },
     {
       "name": "Chevrolet Silverado 3500HD 2018 for salein Castlegar",
       "vin": "1GC4KZEY3JF159639",
@@ -86,11 +94,35 @@
       "price_currency": "CAD"
     },
     {
-      "name": "Honda HR-V 2023 for salein Castlegar",
-      "vin": "3CZRZ2H50PM105017",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/f1ef84a8d456.html",
+      "name": "Ford Edge 2023 for salein Castlegar",
+      "vin": "2FMPK4AP5PBA03458",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/db9e9af9acd8.html",
       "condition": "used",
-      "price": 28694.0,
+      "price": 29694.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda Passport 2023 for salein Castlegar",
+      "vin": "5FNYF8H91PB502613",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/06ac213c13cf.html",
+      "condition": "used",
+      "price": 36076.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Acura MDX 2024 for salein Castlegar",
+      "vin": "5J8YE1H04RL800697",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/ee437178b1b7.html",
+      "condition": "used",
+      "price": 50457.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "GMC Sierra 1500 2024 for salein Castlegar",
+      "vin": "3GTUUEE85RG424106",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/b20c728d9c9a.html",
+      "condition": "used",
+      "price": 62694.0,
       "price_currency": "CAD"
     },
     {
@@ -110,11 +142,19 @@
       "price_currency": "CAD"
     },
     {
-      "name": "GMC Yukon XL 2025 for salein Castlegar",
-      "vin": "1GKS2GRD2SR168081",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/12fdb54e1b04.html",
+      "name": "Ford Super Duty F-350 SRW 2025 for salein Castlegar",
+      "vin": "1FT8W3BT5SEC91725",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/a88d0c7eb74d.html",
       "condition": "used",
-      "price": 88694.0,
+      "price": 76996.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Honda CR-V Hybrid 2025 for salein Castlegar",
+      "vin": "2HKRS6H9XSH224745",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/af0c5f8f879e.html",
+      "condition": "used",
+      "price": 49608.0,
       "price_currency": "CAD"
     },
     {
@@ -123,6 +163,22 @@
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/42e1042b09af.html",
       "condition": "used",
       "price": 54546.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Chevrolet Silverado 1500 2026 for salein Castlegar",
+      "vin": "3GCUKFE83TG227793",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/f082c904b6f2.html",
+      "condition": "used",
+      "price": 69094.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "Dodge Durango 2026 for salein Castlegar",
+      "vin": "1C4SDJCT1TC168306",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/633d4018401d.html",
+      "condition": "used",
+      "price": 60194.0,
       "price_currency": "CAD"
     },
     {
@@ -157,6 +213,17 @@
       "model": "Taurus",
       "condition": "new",
       "price": 4589.0,
+      "price_currency": "CAD"
+    },
+    {
+      "name": "2006 Honda Accord Sedan SEin Castlegar",
+      "vin": "1HGCM56316A804070",
+      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/8437731fd361.html",
+      "year": 2006,
+      "make": "Honda",
+      "model": "Accord",
+      "condition": "used",
+      "price": 9694.0,
       "price_currency": "CAD"
     },
     {
@@ -502,34 +569,12 @@
     {
       "name": "2023 Ford Edge ",
       "vin": "2FMPK4AP5PBA03458",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/db9e9af9acd8.html",
-      "year": 2023,
-      "make": "Ford",
-      "model": "Edge",
-      "condition": "used",
-      "price": 30176.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Ford Edge ",
-      "vin": "2FMPK4AP5PBA03458",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/new/db9e9af9acd8.html",
       "year": 2023,
       "make": "Ford",
       "model": "Edge",
       "condition": "new",
       "price": 30476.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda HR-V Sportin Castlegar",
-      "vin": "3CZRZ2H50PM105017",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/9b440560caf0.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "HR-V",
-      "condition": "used",
-      "price": 28694.0,
       "price_currency": "CAD"
     },
     {
@@ -540,18 +585,7 @@
       "make": "Honda",
       "model": "Passport",
       "condition": "used",
-      "price": 36476.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2023 Honda Passport ",
-      "vin": "5FNYF8H91PB502613",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/06ac213c13cf.html",
-      "year": 2023,
-      "make": "Honda",
-      "model": "Passport",
-      "condition": "used",
-      "price": 36476.0,
+      "price": 36076.0,
       "price_currency": "CAD"
     },
     {
@@ -605,18 +639,7 @@
       "make": "Acura",
       "model": "MDX",
       "condition": "used",
-      "price": 50676.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 Acura MDX ",
-      "vin": "5J8YE1H04RL800697",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/ee437178b1b7.html",
-      "year": 2024,
-      "make": "Acura",
-      "model": "MDX",
-      "condition": "used",
-      "price": 50676.0,
+      "price": 50457.0,
       "price_currency": "CAD"
     },
     {
@@ -649,18 +672,7 @@
       "make": "GMC",
       "model": "Sierra 1500",
       "condition": "used",
-      "price": 62842.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2024 GMC Sierra 1500 ",
-      "vin": "3GTUUEE85RG424106",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/b20c728d9c9a.html",
-      "year": 2024,
-      "make": "GMC",
-      "model": "Sierra 1500",
-      "condition": "used",
-      "price": 62842.0,
+      "price": 62694.0,
       "price_currency": "CAD"
     },
     {
@@ -715,18 +727,7 @@
       "make": "Ford",
       "model": "Super Duty",
       "condition": "used",
-      "price": 77976.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Ford Super Duty F-350 SRW ",
-      "vin": "1FT8W3BT5SEC91725",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/a88d0c7eb74d.html",
-      "year": 2025,
-      "make": "Ford",
-      "model": "Super Duty",
-      "condition": "used",
-      "price": 77976.0,
+      "price": 76996.0,
       "price_currency": "CAD"
     },
     {
@@ -741,34 +742,12 @@
       "price_currency": "CAD"
     },
     {
-      "name": "2025 GMC Yukon XL 4WD 4dr Elevationin Castlegar",
-      "vin": "1GKS2GRD2SR168081",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/516f7377a40c.html",
-      "year": 2025,
-      "make": "GMC",
-      "model": "Yukon XL",
-      "condition": "used",
-      "price": 88694.0,
-      "price_currency": "CAD"
-    },
-    {
       "name": "2025 Honda CR-V Hybrid Touringin Castlegar",
       "vin": "2HKRS6H9XSH224745",
       "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/d950d423a531.html",
       "year": 2025,
       "make": "Honda",
       "model": "CR-V",
-      "condition": "used",
-      "price": 49608.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2025 Honda CR-V Hybrid ",
-      "vin": "2HKRS6H9XSH224745",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/af0c5f8f879e.html",
-      "year": 2025,
-      "make": "Honda",
-      "model": "CR-V Hybrid",
       "condition": "used",
       "price": 49608.0,
       "price_currency": "CAD"
@@ -803,18 +782,7 @@
       "make": "Chevrolet",
       "model": "Silverado 1500",
       "condition": "used",
-      "price": 69625.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Chevrolet Silverado 1500 ",
-      "vin": "3GCUKFE83TG227793",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/f082c904b6f2.html",
-      "year": 2026,
-      "make": "Chevrolet",
-      "model": "Silverado 1500",
-      "condition": "used",
-      "price": 69625.0,
+      "price": 69094.0,
       "price_currency": "CAD"
     },
     {
@@ -825,18 +793,7 @@
       "make": "Dodge",
       "model": "Durango",
       "condition": "used",
-      "price": 60290.0,
-      "price_currency": "CAD"
-    },
-    {
-      "name": "2026 Dodge Durango ",
-      "vin": "1C4SDJCT1TC168306",
-      "url": "https://willyml1979-dotcom.github.io/glacier-honda-mirror/used/633d4018401d.html",
-      "year": 2026,
-      "make": "Dodge",
-      "model": "Durango",
-      "condition": "used",
-      "price": 60290.0,
+      "price": 60194.0,
       "price_currency": "CAD"
     },
     {
